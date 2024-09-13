@@ -1,0 +1,72 @@
+h2 {
+  text-align: center;
+}
+
+.main-pumpkinman {
+  background-image: url(img/pumpkinman-bg.gif);
+  color: white;
+}
+
+.main-pumpkinman-text {
+  background-color: #ffffffaf;
+  color: black;
+  padding: 20px;
+  text-align: justify;
+}
+
+#main .main-pumpkinman-text img {
+  max-width: 70%;
+}
+
+#main .guestbookentry {
+  background-color: #ffffffc0;
+  padding: 10px;
+  color: black;
+  margin-top: 20px;
+}
+
+.searchtable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.searchtable tr {
+  border: 2px solid black;
+}
+
+.searchtable tr:hover {
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+.searchbutton {
+  border: none;
+  cursor: pointer;
+  appearance: none;
+  background-color: transparent;
+}
+
+.searchbutton img {
+  margin: 0 !important;
+}
+
+#speechbubble img {
+  position: relative;
+  top: 50px;
+  left: 39%;
+  margin: 0 !important;
+  width: 200px;
+}
+
+#speechbubble p {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  z-index: 100;
+  font-size: 1em;
+  width: 150px;
+  text-align: center;
+  position: relative;
+  top: 150px;
+  left: 42%;
+  margin: 0 !important;
+}

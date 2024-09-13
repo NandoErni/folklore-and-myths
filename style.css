@@ -1,0 +1,172 @@
+body {
+  background-color: black;
+  color: black;
+  background-image: url(img/lightning-rain-bg.jpg);
+  font-size: larger;
+}
+
+header {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #ffffff5f;
+  padding: 40px;
+  margin: 0;
+}
+
+nav {
+  font-size: 15pt;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.copyright {
+  font-size: 0.7em;
+}
+
+nav a {
+  margin: 0 10px;
+}
+
+header h1 {
+  font-weight: 100;
+  font-size: 72pt;
+  margin: 40px;
+}
+
+#main {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.main-home {
+  background-color: #ffffffaf;
+}
+
+#main figure figcaption {
+  text-align: center;
+  margin: 0;
+  font-size: small;
+  color: black;
+  font-style: italic;
+}
+
+#main figure img {
+  margin: 0 auto;
+}
+
+#main img {
+  margin: 40px auto;
+  display: block;
+}
+
+#main .main-header {
+  text-shadow: #000 1px 0 5px;
+}
+
+#content {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidepanel {
+  flex: 1;
+  color: white;
+  display: block;
+  padding: 10px;
+}
+
+.sidepanel h2 {
+  text-align: center;
+}
+
+.sidepanel .pagebox {
+  border: 2px solid orange;
+  width: 80%;
+  display: block;
+  margin: 20px auto;
+  color: white;
+}
+
+.sidepanel .guestbookentry {
+  margin: 20px auto;
+  background-color: #ffffff4f;
+  padding: 10px;
+}
+
+.sidepanel .guestbookentry small {
+  margin-left: 20px;
+  color: #c0c0c0;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
+}
+
+.center {
+  margin: 40px auto;
+  display: block;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-family: "Arial Black", sans-serif;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    #ffffff,
+    #eeeeee,
+    #dddddd,
+    #cccccc,
+    #bbbbbb,
+    #aaaaaa,
+    #999999,
+    #888888,
+    #777777,
+    #666666
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+  transform: scaleY(1.5) scaleX(0.6) translateX(35%);
+  transform-origin: left;
+  display: inline-block;
+  font-size: 7rem;
+}
+
+blink,
+.blink {
+  -webkit-animation: blink 1s step-end infinite;
+  -moz-animation: blink 1s step-end infinite;
+  -o-animation: blink 1s step-end infinite;
+  animation: blink 1s step-end infinite;
+}
+@-webkit-keyframes blink {
+  67% {
+    opacity: 0;
+  }
+}
+@-moz-keyframes blink {
+  67% {
+    opacity: 0;
+  }
+}
+@-o-keyframes blink {
+  67% {
+    opacity: 0;
+  }
+}
+@keyframes blink {
+  67% {
+    opacity: 0;
+  }
+}
