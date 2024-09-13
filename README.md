@@ -2,7 +2,7 @@
 
 It is used for the Film *The Pumpkin man* by [David Weder](https://www.davidweder.com/) and his team. [Watch it here!]()
 
-The Site is hosted via github pages [here!]()
+The Site is hosted via github pages [here!](folkloreandmyths.com)
 
 ## Links and resources
 - [Building a website like it's 1999... in 2022](https://localghost.dev/blog/building-a-website-like-it-s-1999-in-2022/)
