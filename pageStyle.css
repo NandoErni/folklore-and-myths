@@ -34,6 +34,22 @@ h2 {
   max-width: 70%;
 }
 
+.main-canny {
+  background-image: url(img/canny-bg.jpg);
+  color: white;
+}
+
+.main-canny-text {
+  background-color: #ffffffaf;
+  color: black;
+  padding: 20px;
+  text-align: justify;
+}
+
+#main .main-canny-text img {
+  max-width: 70%;
+}
+
 #main .guestbookentry {
   background-color: #ffffffc0;
   padding: 10px;
