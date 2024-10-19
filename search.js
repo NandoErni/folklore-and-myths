@@ -1,7 +1,7 @@
 const pages = [
     {
         logo: "img/gifs/jackolantern2.gif",
-        title: "The Pumpkin man",
+        title: "The Pumpkin Man",
         link: "pumpkinman.html"
     },
     {
