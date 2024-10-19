@@ -18,6 +18,22 @@ h2 {
   max-width: 70%;
 }
 
+.main-honey {
+  background-image: url(img/honey-bg.gif);
+  color: white;
+}
+
+.main-honey-text {
+  background-color: #ffffffaf;
+  color: black;
+  padding: 20px;
+  text-align: justify;
+}
+
+#main .main-honey-text img {
+  max-width: 70%;
+}
+
 #main .guestbookentry {
   background-color: #ffffffc0;
   padding: 10px;
