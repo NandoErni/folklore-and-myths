@@ -2,16 +2,21 @@ h2 {
   text-align: center;
 }
 
+.main-text {
+  background-color: #ffffffaf;
+  color: black;
+  padding: 20px;
+  text-align: justify;
+}
+
 .main-pumpkinman {
   background-image: url(img/pumpkinman-bg.gif);
   color: white;
 }
 
-.main-pumpkinman-text {
-  background-color: #ffffffaf;
-  color: black;
-  padding: 20px;
-  text-align: justify;
+.main-cassette {
+  background-image: url(img/cassette-bg.gif);
+  color: white;
 }
 
 #main .main-pumpkinman-text img {
@@ -23,27 +28,23 @@ h2 {
   color: white;
 }
 
-.main-honey-text {
-  background-color: #ffffffaf;
-  color: black;
-  padding: 20px;
-  text-align: justify;
+#main .main-honey-text img {
+  max-width: 70%;
 }
 
-#main .main-honey-text img {
+
+.main-finn {
+  background-image: url(img/finn-bg.gif);
+  color: white;
+}
+
+#main .main-finn-text img {
   max-width: 70%;
 }
 
 .main-canny {
   background-image: url(img/canny-bg.jpg);
   color: white;
-}
-
-.main-canny-text {
-  background-color: #ffffffaf;
-  color: black;
-  padding: 20px;
-  text-align: justify;
 }
 
 #main .main-canny-text img {

@@ -5,6 +5,11 @@ const pages = [
         link: "pumpkinman.html"
     },
     {
+        logo: "img/gifs/cassette.gif",
+        title: "The old mans cassette",
+        link: "oldmancassette.html"
+    },
+    {
         logo: "img/gifs/home.gif",
         title: "Honey I'm Home",
         link: "honeyimhome.html"
@@ -13,6 +18,11 @@ const pages = [
         logo: "img/gifs/uncannyvalley.gif",
         title: "Uncanny Valley",
         link: "uncannyvalley.html"
+    },
+    {
+        logo: "img/gifs/finn.gif",
+        title: "The tale of Finn Kreutzer",
+        link: "finnkreutzer.html"
     },
 ]
 
