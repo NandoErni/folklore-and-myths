@@ -19,7 +19,11 @@ h2 {
   color: white;
 }
 
-#main .main-pumpkinman-text img {
+.main-cassette .main-text img {
+  max-width: 70%;
+}
+
+.main-pumpkinman .main-text img {
   max-width: 70%;
 }
 
@@ -28,7 +32,7 @@ h2 {
   color: white;
 }
 
-#main .main-honey-text img {
+.main-honey .main-text img {
   max-width: 70%;
 }
 
@@ -38,7 +42,7 @@ h2 {
   color: white;
 }
 
-#main .main-finn-text img {
+.main-finn .main-text img {
   max-width: 70%;
 }
 
@@ -47,7 +51,7 @@ h2 {
   color: white;
 }
 
-#main .main-canny-text img {
+.main-canny .main-text img {
   max-width: 70%;
 }
 
